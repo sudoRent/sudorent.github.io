@@ -1,7 +1,7 @@
 # Welcome to SudoRent!
 
-##Installation
+## Installation
 
-##Getting Started
+## Getting Started
 
-##Documentation
+## Documentation
