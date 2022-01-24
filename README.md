@@ -1,1 +1,7 @@
-# sudorent.github.io
+# Welcome to SudoRent!
+
+##Installation
+
+##Getting Started
+
+##Documentation
